@@ -2,25 +2,25 @@
 
 **Software Developer | C & Low-Level Specialist | Safety-Critical Systems**
 
-[cite_start]I am a developer at **42 Porto** focused on writing reliable, high-performance, and deterministic code[cite: 7, 27]. [cite_start]I treat software development as an engineering craft, where quality is never an afterthought.
+I am a developer at **42 Porto** focused on writing reliable, high-performance, and deterministic code. I treat software development as an engineering craft, where quality is never an afterthought.
 
-[cite_start]My work is guided by high-integrity standards, specifically the **NASA Power of Ten Rules**, to ensure that the systems I build are robust and failure-resistant[cite: 7, 11].
+My work is guided by high-integrity standards, specifically the **NASA Power of Ten Rules**, to ensure that the systems I build are robust and failure-resistant.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🐚 [100% Malloc-free Minishell](LINK_TO_REPO)
-[cite_start]A deterministic Bash-like shell built entirely without dynamic memory allocation to eliminate non-determinism and fragmentation[cite: 10, 11].
-- [cite_start]**Key Focus:** Manual TTY/Termios management, custom Line Editor, and V-cycle testing[cite: 12, 13].
+A deterministic Bash-like shell built entirely without dynamic memory allocation to eliminate non-determinism and fragmentation.
+- **Key Focus:** Manual TTY/Termios management, custom Line Editor, and V-cycle testing.
 
 ### 🍝 [The Dining Philosophers](LINK_TO_REPO)
-[cite_start]A deep dive into concurrency and IPC using Mutexes and Semaphores to manage shared resources across 500+ threads[cite: 15, 17].
-- [cite_start]**Key Focus:** Deadlock prevention, race condition elimination, and millisecond-precision monitoring[cite: 18, 19].
+A deep dive into concurrency and IPC using Mutexes and Semaphores to manage shared resources across 500+ threads.
+- **Key Focus:** Deadlock prevention, race condition elimination, and millisecond-precision monitoring.
 
 ### 📐 [3D Terrain Renderer (FdF)](LINK_TO_REPO)
-[cite_start]A low-level graphics engine using X11/MiniLibX to visualize topographic data through isometric projections[cite: 20, 21].
-- [cite_start]**Key Focus:** Linear algebra (matrix transformations) and optimized rendering via Bresenham’s algorithms[cite: 22, 23].
+A low-level graphics engine using X11/MiniLibX to visualize topographic data through isometric projections.
+- **Key Focus:** Linear algebra (matrix transformations) and optimized rendering via Bresenham’s algorithms.
 
 ---
 
@@ -40,9 +40,9 @@
 
 ## 🧠 Engineering Principles
 
-- [cite_start]**Safety-First:** Adherence to **NASA Power of Ten** and awareness of **V-cycle** methodologies[cite: 11, 13].
-- [cite_start]**Predictability:** Preference for stack/static allocation over the heap to ensure deterministic behavior[cite: 11, 35].
-- [cite_start]**Transparency:** I write code for humans to read and machines to execute flawlessly.
+- **Safety-First:** Adherence to **NASA Power of Ten** and awareness of **V-cycle** methodologies.
+- **Predictability:** Preference for stack/static allocation over the heap to ensure deterministic behavior.
+- **Transparency:** I write code for humans to read and machines to execute flawlessly.
 
 ---
 
