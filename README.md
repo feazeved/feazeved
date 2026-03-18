@@ -10,15 +10,15 @@ My work is guided by high-integrity standards, specifically the **NASA Power of 
 
 ## 🚀 Featured Projects
 
-### 🐚 [100% Malloc-free Minishell](LINK_TO_REPO)
+### 🐚 [100% Malloc-free Minishell](https://github.com/AlexRD-42/minishell)
 A deterministic Bash-like shell built entirely without dynamic memory allocation to eliminate non-determinism and fragmentation.
 - **Key Focus:** Manual TTY/Termios management, custom Line Editor, and V-cycle testing.
 
-### 🍝 [The Dining Philosophers](LINK_TO_REPO)
+### 🍝 [The Dining Philosophers](https://github.com/feazeved/Philosophers)
 A deep dive into concurrency and IPC using Mutexes and Semaphores to manage shared resources across 500+ threads.
 - **Key Focus:** Deadlock prevention, race condition elimination, and millisecond-precision monitoring.
 
-### 📐 [3D Terrain Renderer (FdF)](LINK_TO_REPO)
+### 📐 [3D Terrain Renderer (FdF)](https://github.com/feazeved/fdf)
 A low-level graphics engine using X11/MiniLibX to visualize topographic data through isometric projections.
 - **Key Focus:** Linear algebra (matrix transformations) and optimized rendering via Bresenham’s algorithms.
 
